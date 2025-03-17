@@ -1,4 +1,4 @@
-# 📊 Revenue Insights Dashboard for Hospitality Industry
+# 📊 Revenue Insights Dashboard for Hospitality Domain
 
 ## 🚀 Overview
 The **Revenue Insights Dashboard** is a **Power BI** report designed to provide in-depth analytics and real-time performance tracking for the **hospitality industry**. This dashboard helps businesses optimize revenue, monitor key metrics, and make data-driven decisions to enhance hotel performance.
