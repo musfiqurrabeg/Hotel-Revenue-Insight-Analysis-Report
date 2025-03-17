@@ -10,7 +10,7 @@ The **Revenue Insights Dashboard** is a **Power BI** report designed to provide 
 - **📈 Revenue Analysis**: Track total revenue, RevPAR (Revenue per Available Room), and ADR (Average Daily Rate).
 - **🏨 Occupancy Insights**: Monitor occupancy percentages to optimize room availability.
 - **📊 Realization & Booking Trends**: Analyze realization percentages across various booking platforms.
-- **📌 Property Performance**: Get granular insights into revenue, bookings, cancellation rates, and guest ratings.
+- **📌 Property Performance**: Get insights for revenue, bookings, cancellation rates, and guest ratings.
 - **📉 Trend Analysis**: Visualize week-on-week changes in revenue, RevPAR, and occupancy rates.
 - **🛎️ Category Breakdown**: Compare business vs. luxury segments for a better strategic approach.
 
