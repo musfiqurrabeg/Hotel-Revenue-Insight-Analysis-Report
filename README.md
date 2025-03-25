@@ -6,6 +6,8 @@
 ## 🚀 Overview
 The **Revenue Insights Dashboard** is a **Power BI** report designed to provide in-depth analytics and real-time performance tracking for the **hospitality industry**. This dashboard helps businesses optimize revenue, monitor key metrics, and make data-driven decisions to enhance hotel performance.
 
+> **Note**: This dashboard was built by me, drawing inspiration and learning from [codebasics.io](https://codebasics.io) YouTube channel and website. 
+
 ## 🎯 Key Features
 - **📈 Revenue Analysis**: Track total revenue, RevPAR (Revenue per Available Room), and ADR (Average Daily Rate).
 - **🏨 Occupancy Insights**: Monitor occupancy percentages to optimize room availability.
@@ -76,3 +78,4 @@ The **Revenue Insights Dashboard** is a **Power BI** report designed to provide 
 
 🚀 **Optimize your hotel’s revenue with data-driven insights today!**
 
+> **Note**: This dashboard was built by me, drawing inspiration and learning from [codebasics.io](https://codebasics.io) YouTube channel and website. 
